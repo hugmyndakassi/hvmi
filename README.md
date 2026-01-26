@@ -1,3 +1,5 @@
+**This repository is archived and no longer maintained.**
+
 # Hypervisor Memory Introspection
 
 ![logo](docs/chapters/images/hvmi-logo-main-color.png)
